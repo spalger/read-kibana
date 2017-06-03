@@ -1,0 +1,32 @@
+{
+  "name": "read-docs",
+  "version": "0.0.0",
+  "main": "index.js",
+  "author": "spalger <spalger@users.noreply.github.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "babel-core": "^6.24.1",
+    "babel-traverse": "^6.24.1",
+    "babel-types": "^6.24.1",
+    "commander": "^2.9.0",
+    "glob": "^7.1.2",
+    "globby": "^6.1.0",
+    "rxjs": "^5.4.0"
+  },
+  "devDependencies": {
+    "@spalger/eslint-config-personal": "^0.6.2",
+    "babel-eslint": "^7.2.3",
+    "babel-plugin-syntax-object-rest-spread": "^6.13.0",
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
+    "babel-preset-env": "^1.5.1",
+    "babel-register": "^6.24.1",
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^15.0.1",
+    "eslint-plugin-babel": "^4.1.1",
+    "eslint-plugin-import": "^2.3.0",
+    "eslint-plugin-jsx-a11y": "^5.0.3",
+    "eslint-plugin-react": "^7.0.1",
+    "expect.js": "^0.3.1",
+    "mocha": "^3.4.2"
+  }
+}
